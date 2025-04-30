@@ -18,7 +18,7 @@ Velkommen til GitHub-profilen min! Jeg er en kreativ og lærevillig utvikler i s
 ## 🌐 Sjekk ut porteføljen min
 
 🔗 [Live demo](https://superb-youtiao-45f116.netlify.app/)  
-📁 [Kode på GitHub](https://github.com/nellysme/portfolio) *(eller riktig lenke til repoet)*
+📁 [Kode på GitHub](https://github.com/nellysme/portfolio)
 
 ## ✨ Prosjekter
 
