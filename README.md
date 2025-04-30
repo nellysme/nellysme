@@ -10,21 +10,11 @@ Velkommen til GitHub-profilen min! Jeg er en kreativ og lærevillig utvikler i s
 - Java (grunnleggende nivå)
 - Lage og forbedre porteføljen min
 
-## 🧠 Hva jeg lærer
-
-- JavaScript interaktivitet
-- Strukturert koding og prosjektmappestruktur
-
 ## 🌐 Sjekk ut porteføljen min
 
 🔗 [Live demo](https://superb-youtiao-45f116.netlify.app/)  
 📁 [Kode på GitHub](https://github.com/nellysme/portfolio)
 
-## ✨ Prosjekter
-
-- `My Plans` – eksamensoppgave med JS og API
-- `GameHub` – enkel gaming-side
-- `Community Science Museum` – semesterprosjekt
 
 ## 📬 Kontakt
 
